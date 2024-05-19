@@ -1,6 +1,6 @@
 # Cumputing π
 
-## Chudnovsky algorithm
+## Chudnovsky algorithm 
 The Chudnovsky algorithm is a fast method for calculating the digits of π (pi). It’s based on Ramanujan’s π formulae and was published by the Chudnovsky brothers in 1988. Here’s how it works:
 
 
